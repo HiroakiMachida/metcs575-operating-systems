@@ -1,0 +1,3849 @@
+Nov 13 02:10:36 10 syslogd: restart
+Nov 13 02:10:36 10 kernel: APIC disabled, using legacy PIC
+Nov 13 02:10:36 10 kernel: 
+Nov 13 02:10:36 10 kernel: MINIX 3.1.8. (r8165)
+Nov 13 02:10:36 10 kernel: Copyright 2010, Vrije Universiteit, Amsterdam, The Netherlands
+Nov 13 02:10:36 10 kernel: MINIX is open source software, see http://www.minix3.org
+Nov 13 02:10:36 10 kernel: Initiating legacy i8253 timer
+Nov 13 02:10:36 10 kernel: CPU 0 freq 1103 MHz
+Nov 13 02:10:36 10 kernel: Wed Nov 13 02:10:35 GMT 2019
+Nov 13 02:10:36 10 kernel: mknod /dev/eth0 c 7 1
+Nov 13 02:10:36 10 kernel: ln /dev/eth0 /dev/eth
+Nov 13 02:10:36 10 kernel: mknod /dev/ip0 c 7 2
+Nov 13 02:10:36 10 kernel: ln /dev/ip0 /dev/ip
+Nov 13 02:10:36 10 kernel: mknod /dev/tcp0 c 7 3
+Nov 13 02:10:36 10 kernel: ln /dev/tcp0 /dev/tcp
+Nov 13 02:10:36 10 kernel: mknod /dev/udp0 c 7 4
+Nov 13 02:10:36 10 kernel: ln /dev/udp0 /dev/udp
+Nov 13 02:10:36 10 kernel: mknod /dev/ipstat c 7 0
+Nov 13 02:14:05 10 syslogd: exiting on signal 15
+Nov 13 02:14:09 10 syslogd: restart
+Nov 13 02:14:09 10 kernel: APIC disabled, using legacy PIC
+Nov 13 02:14:09 10 kernel: 
+Nov 13 02:14:09 10 kernel: MINIX 3.1.8. (r8165)
+Nov 13 02:14:09 10 kernel: Copyright 2010, Vrije Universiteit, Amsterdam, The Netherlands
+Nov 13 02:14:09 10 kernel: MINIX is open source software, see http://www.minix3.org
+Nov 13 02:14:09 10 kernel: Initiating legacy i8253 timer
+Nov 13 02:14:09 10 kernel: CPU 0 freq 1104 MHz
+Nov 13 02:14:09 10 kernel: Wed Nov 13 02:14:08 GMT 2019
+Nov 13 02:14:10 10 sshd[131]: Server listening on 0.0.0.0 port 22.
+Nov 13 02:15:32 10 syslogd: exiting on signal 15
+Nov 13 02:16:09 10 syslogd: restart
+Nov 13 02:16:09 10 kernel: APIC disabled, using legacy PIC
+Nov 13 02:16:09 10 kernel: 
+Nov 13 02:16:09 10 kernel: MINIX 3.1.8. (r8165)
+Nov 13 02:16:09 10 kernel: Copyright 2010, Vrije Universiteit, Amsterdam, The Netherlands
+Nov 13 02:16:09 10 kernel: MINIX is open source software, see http://www.minix3.org
+Nov 13 02:16:09 10 kernel: Initiating legacy i8253 timer
+Nov 13 02:16:09 10 kernel: CPU 0 freq 1103 MHz
+Nov 13 02:16:09 10 kernel: Wed Nov 13 02:16:08 GMT 2019
+Nov 13 02:19:09 10 sshd[137]: fatal: Read from socket failed: Connection reset
+Nov 13 02:20:20 10 sshd[138]: Accepted password for root from 10.0.2.2 port 49510 ssh2
+Nov 13 02:20:20 10 sshd[138]: subsystem request for sftp
+Nov 13 02:22:16 10 sshd[138]: subsystem request for sftp
+Nov 30 20:57:37 10 syslogd: restart
+Nov 30 20:57:37 10 kernel: APIC disabled, using legacy PIC
+Nov 30 20:57:37 10 kernel: 
+Nov 30 20:57:37 10 kernel: MINIX 3.1.8. (r8165)
+Nov 30 20:57:37 10 kernel: Copyright 2010, Vrije Universiteit, Amsterdam, The Netherlands
+Nov 30 20:57:37 10 kernel: MINIX is open source software, see http://www.minix3.org
+Nov 30 20:57:37 10 kernel: Initiating legacy i8253 timer
+Nov 30 20:57:37 10 kernel: CPU 0 freq 1103 MHz
+Nov 30 20:57:37 10 kernel: Sat Nov 30 20:57:32 GMT 2019
+Nov 30 20:58:12 10 sshd[161]: Accepted password for root from 10.0.2.2 port 50118 ssh2
+Nov 30 20:58:12 10 sshd[161]: subsystem request for sftp
+Nov 30 20:58:12 10 sshd[165]: Accepted password for root from 10.0.2.2 port 50119 ssh2
+Nov 30 20:58:12 10 sshd[165]: subsystem request for sftp
+Nov 30 20:58:32 10 sshd[165]: subsystem request for sftp
+Nov 30 20:59:09 10 sshd[171]: Failed password for root from 10.0.2.2 port 50134 ssh2
+Nov 30 20:59:10 10 sshd[171]: Accepted password for root from 10.0.2.2 port 50134 ssh2
+Nov 30 21:04:05 10 syslogd: exiting on signal 15
+Nov 30 21:04:10 10 syslogd: restart
+Nov 30 21:04:10 10 kernel: APIC disabled, using legacy PIC
+Nov 30 21:04:10 10 kernel: 
+Nov 30 21:04:10 10 kernel: MINIX 3.1.8. (r8165)
+Nov 30 21:04:10 10 kernel: Copyright 2010, Vrije Universiteit, Amsterdam, The Netherlands
+Nov 30 21:04:10 10 kernel: MINIX is open source software, see http://www.minix3.org
+Nov 30 21:04:10 10 kernel: Initiating legacy i8253 timer
+Nov 30 21:04:10 10 kernel: CPU 0 freq 1102 MHz
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:11 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73129 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36572 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36573 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36574 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36575 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36576 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36577 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73133 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36578 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73134 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36579 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:7 priority:5 time_slice:500 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36580 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36581 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36582 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36583 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36584 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36585 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36586 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73135 priority:5 time_slice:500 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36585 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36585 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36584 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36584 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36587 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() c
+Nov 30 21:04:10 10 kernel: alled. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36588 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36589 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36590 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73136 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36591 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36592 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73137 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: Sat Nov 30 21:04:08 GMT 2019
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36593 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36593 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36593 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36593 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36593 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36594 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36595 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36593 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36593 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36593 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36593 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36596 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36597 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36598 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36596 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36596 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36599 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36600 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36601 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36602 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36603 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73138 priority:5 time_slice:500 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36604 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_star
+Nov 30 21:04:10 10 kernel: t_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36605 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36606 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36607 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36608 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36609 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36610 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36611 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36612 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36613 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36614 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36615 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:4 priority:2 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73139 priority:2 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36616 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:9 priority:5 time_slice:500 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36617 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36618 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36619 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36620 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73140 priority:5 time_slice:500 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36619 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36619 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36618 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36618 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36621 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36
+Nov 30 21:04:10 10 kernel: 570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_noquantum() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36622 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/1 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36624 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36625 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36626 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73141 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36627 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36628 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36629 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36630 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36631 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36632 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/5 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/4 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_noquantum() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:3 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36633 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36634 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36635 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36633 won the lottery! tickets:1/4 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36633 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36633 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36633 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36636 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36637 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36638 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36636 won the lottery! tickets:1/4 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36636 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36636 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36636 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36639 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() calle
+Nov 30 21:04:10 10 kernel: d.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36640 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73142 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36641 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36642 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_noquantum() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:4 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73143 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36643 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36644 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73144 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36645 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36646 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:73145 priority:7 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36647 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36648 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/2 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36650 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/3 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36652 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36649 won the lottery! tickets:1/4 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_noquantum() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:5 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36653 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/4 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36654 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36655 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36623 won the lottery! tickets:1/6 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36623 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36651 won the lottery! tickets:1/5 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36657 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/5 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 
+Nov 30 21:04:10 10 kernel: tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36659 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36658 won the lottery! tickets:1/6 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_noquantum() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:6 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36661 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36658 won the lottery! tickets:1/7 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36662 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36651 won the lottery! tickets:1/7 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36663 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36664 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36665 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36666 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36656 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36667 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36660 won the lottery! tickets:1/9 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36668 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/9 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36669 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36649 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36664 won the lottery! tickets:1/9 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36664 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36656 won the lottery! tickets:1/8 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_noquantum() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:5 priority:7 time_slice:50 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36570 won the lottery! tickets:1/7 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36570 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:10 10 kernel: Process:36658 won the lottery! tickets:1/6 priority:15.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:10 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:10 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:13 10 kernel: balance_queues() called.
+Nov 30 21:04:13 10 kernel: schedule_process() called. endpoint:5 priority:6 time_slice:50 tickets:1
+Nov 30 21:04:13 10 kernel: Process:36673 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:13 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:18 10 kernel: balance_queues() called.
+Nov 30 21:04:18 10 kernel: schedule_process() called. endpoint:5 priority:5 time_slice:50 tickets:1
+Nov 30 21:04:18 10 kernel: Process:36672 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:18 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:23 10 kernel: balance_queues() called.
+Nov 30 21:04:23 10 kernel: schedule_process() called. endpoint:5 priority:4 time_slice:50 tickets:1
+Nov 30 21:04:23 10 kernel: Process:36673 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:23 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:28 10 kernel: balance_queues() called.
+Nov 30 21:04:28 10 kernel: schedule_process() called. endpoint:5 priority:3 time_slice:50 tickets:1
+Nov 30 21:04:28 10 kernel: Process:36660 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:28 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:33 10 kernel: balance_queues() called.
+Nov 30 21:04:33 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:04:33 10 kernel: Process:36670 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:33 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:38 10 kernel: balance_queues() called.
+Nov 30 21:04:38 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:04:38 10 kernel: Process:36658 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:38 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:43 10 kernel: balance_queues() called.
+Nov 30 21:04:43 10 kernel: Process:36674 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:43 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:48 10 kernel: balance_queues() called.
+Nov 30 21:04:48 10 kernel: Process:36651 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:48 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:49 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:49 10 kernel: schedule_process() called. endpoint:36675 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:49 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:49 10 kernel: Process:36674 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:49 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:36676 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:50 10 kernel: Process:36658 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:36677 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:50 10 kernel: Process:36660 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:36678 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_stop_scheduling() called.
+Nov 30 21:04:50 10 kernel: Process:36660 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:50 10 kernel: do_noquantum() called.
+Nov 30 21:04:50 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:04:53 10 kernel: balance_queues() called.
+Nov 30 21:04:53 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:04:53 10 kernel: Process:36658 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:53 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:58 10 kernel: balance_queues() called.
+Nov 30 21:04:58 10 kernel: Process:36660 won the lottery! tickets:1/10 priority:15.
+Nov 30 21:04:58 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:04:58 10 kernel: do_start_scheduling() called.
+Nov 30 21:04:58 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36680 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:00 10 kernel: Process:36656 won the lottery! tickets:1/11 priority:15.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 sshd[137]: Accepted password for root from 10.0.2.2 port 50139 ssh2
+Nov 30 21:05:00 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36682 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:00 10 kernel: Process:36660 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36683 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:00 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:00 10 kernel: Process:36672 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:05:00 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:03 10 kernel: balance_queues() called.
+Nov 30 21:05:03 10 kernel: Process:36658 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:05:03 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: balance_queues() called.
+Nov 30 21:05:08 10 kernel: Process:36649 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36684 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36685 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36686 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36687 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_nice() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36684 priority:15 time_slice:200 tickets:2
+Nov 30 21:05:08 10 kernel: do_noquantum() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:05:08 10 kernel: do_nice() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36685 priority:15 time_slice:200 tickets:2
+Nov 30 21:05:08 10 kernel: do_nice() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36687 priority:15 time_slice:200 tickets:16
+Nov 30 21:05:08 10 kernel: do_nice() called.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36686 priority:15 time_slice:200 tickets:2
+Nov 30 21:05:08 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:08 10 kernel: Process:36671 won the lottery! tickets:1/32 priority:15.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:08 10 kernel: Process:36687 won the lottery! tickets:16/30 priority:15.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36687 priority:15 time_slice:200 tickets:16
+Nov 30 21:05:08 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:08 10 kernel: Process:36681 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:08 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:08 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:05:08 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:12 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36688 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:12 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36689 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:12 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36690 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:12 10 kernel: do_start_scheduling() called.
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:12 10 kernel: do_nice() called.
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36688 priority:15 time_slice:200 tickets:2
+Nov 30 21:05:12 10 kernel: do_nice() called.
+a6:000101
+b6:000101
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36689 priority:15 time_slice:200 tickets:2
+a6:000202
+b6:000202
+a6:000303
+b6:000303
+Nov 30 21:05:12 10 kernel: do_nice() called.
+a6:000404
+b6:000404
+d6:000101
+c6:000101
+a6:000505
+b6:000505
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:16
+d6:000202
+c6:000202
+a6:000606
+b6:000606
+d6:000303
+c6:000303
+a6:000707
+b6:000707
+Nov 30 21:05:12 10 kernel: do_nice() called.
+d6:000404
+c6:000404
+a6:000808
+b6:000808
+d6:000505
+c6:000505
+a6:000909
+b6:000909
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36690 priority:15 time_slice:200 tickets:2
+d6:000606
+c6:000606
+a6:001010
+b6:001010
+d6:000707
+c6:000707
+a6:001111
+b6:001111
+d6:000808
+c6:000808
+a6:001212
+b6:001212
+d6:000909
+c6:000909
+a6:001313
+b6:001313
+d6:001010
+c6:001010
+a6:001414
+b6:001414
+d6:001111
+c6:001111
+a6:001515
+b6:001515
+d6:001212
+c6:001212
+a6:001616
+b6:001616
+d6:001313
+c6:001313
+a6:001717
+b6:001717
+d6:001414
+c6:001414
+a6:001818
+b6:001818
+d6:001515
+c6:001515
+a6:001919
+b6:001919
+d6:001616
+c6:001616
+a6:002020
+b6:002020
+d6:001717
+c6:001717
+a6:002121
+b6:002121
+d6:001818
+c6:001818
+a6:002222
+b6:002222
+d6:001919
+c6:001919
+a6:002323
+b6:002323
+d6:002020
+c6:002020
+a6:002424
+b6:002424
+d6:002121
+c6:002121
+a6:002525
+b6:002525
+d6:002222
+c6:002222
+a6:002626
+b6:002626
+d6:002323
+c6:002323
+a6:002727
+b6:002727
+d6:002424
+c6:002424
+a6:002828
+b6:002828
+d6:002525
+c6:002525
+a6:002929
+b6:002929
+d6:002626
+c6:002626
+a6:003030
+b6:003030
+d6:002727
+c6:002727
+a6:003131
+b6:003131
+d6:002828
+c6:002828
+a6:003232
+b6:003232
+d6:002929
+c6:002929
+a6:003333
+b6:003333
+d6:003030
+c6:003030
+a6:003434
+b6:003434
+d6:003131
+c6:003131
+a6:003535
+b6:003535
+d6:003232
+c6:003232
+a6:003636
+b6:003636
+d6:003333
+c6:003333
+a6:003737
+b6:003737
+d6:003434
+c6:003434
+a6:003838
+b6:003838
+d6:003535
+c6:003535
+a6:003939
+b6:003939
+d6:003636
+c6:003636
+a6:004040
+b6:004040
+d6:003737
+c6:003737
+a6:004141
+b6:004141
+d6:003838
+c6:003838
+a6:004242
+b6:004242
+d6:003939
+c6:003939
+a6:004343
+b6:004343
+d6:004040
+c6:004040
+a6:004444
+b6:004444
+d6:004141
+c6:004141
+a6:004545
+b6:004545
+d6:004242
+c6:004242
+a6:004646
+b6:004646
+d6:004343
+c6:004343
+a6:004747
+b6:004747
+d6:004444
+c6:004444
+a6:004848
+b6:004848
+d6:004545
+c6:004545
+a6:004949
+b6:004949
+d6:004646
+c6:004646
+a6:005050
+b6:005050
+d6:004747
+c6:004747
+a6:005151
+b6:005151
+d6:004848
+c6:004848
+a6:005252
+b6:005252
+d6:004949
+c6:004949
+a6:005353
+b6:005353
+d6:005050
+c6:005050
+a6:005454
+b6:005454
+d6:005151
+c6:005151
+a6:005555
+b6:005555
+d6:005252
+c6:005252
+a6:005656
+b6:005656
+d6:005353
+c6:005353
+a6:005757
+b6:005757
+d6:005454
+c6:005454
+a6:005858
+b6:005858
+d6:005555
+c6:005555
+a6:005959
+b6:005959
+d6:005656
+c6:005656
+a6:006060
+b6:006060
+d6:005757
+c6:005757
+a6:006161
+b6:006161
+d6:005858
+c6:005858
+a6:006262
+b6:006262
+d6:005959
+c6:005959
+a6:006363
+b6:006363
+d6:006060
+c6:006060
+a6:006464
+b6:006464
+d6:006161
+c6:006161
+a6:006565
+b6:006565
+d6:006262
+c6:006262
+a6:006666
+b6:006666
+d6:006363
+c6:006363
+a6:006767
+b6:006767
+d6:006464
+c6:006464
+a6:006868
+b6:006868
+d6:006565
+c6:006565
+a6:006969
+b6:006969
+d6:006666
+c6:006666
+a6:007070
+b6:007070
+d6:006767
+c6:006767
+a6:007171
+b6:007171
+d6:006868
+c6:006868
+a6:007272
+b6:007272
+d6:006969
+c6:006969
+a6:007373
+b6:007373
+d6:007070
+c6:007070
+a6:007474
+b6:007474
+d6:007171
+c6:007171
+c6:007272
+d6:007272
+c6:007373
+d6:007373
+Nov 30 21:05:12 10 kernel: do_noquantum() called.
+d6:007474
+d6:007575
+Nov 30 21:05:12 10 kernel: Process:36674 won the lottery! tickets:1/34 priority:15.
+d6:007676
+d6:007777
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+d6:007878
+d6:007979
+Nov 30 21:05:12 10 kernel: do_noquantum() called.
+d6:008080
+d6:008181
+Nov 30 21:05:12 10 kernel: Process:36691 won the lottery! tickets:16/34 priority:15.
+d6:008282
+d6:008383
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:16
+d6:008484
+d6:008585
+d6:008686
+d6:008787
+Nov 30 21:05:12 10 kernel: do_noquantum() called.
+d6:008888
+d6:008989
+Nov 30 21:05:12 10 kernel: Process:36691 won the lottery! tickets:16/34 priority:15.
+d6:009090
+d6:009191
+Nov 30 21:05:12 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:16
+d6:009292
+d6:009393
+d6:009494
+d6:009595
+d6:009696
+d6:009797
+d6:009898
+Nov 30 21:05:13 10 kernel: balance_queues() called.
+d6:009999
+d6:010100
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+d6:010201
+d6:010302
+Nov 30 21:05:13 10 kernel: Process:36691 won the lottery! tickets:16/34 priority:15.
+d6:010403
+d6:010504
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:16
+d6:010605
+d6:010706
+d6:010807
+d6:010908
+d6:011009
+d6:011110
+d6:011211
+d6:011312
+d6:011413
+d6:011514
+d6:011615
+d6:011716
+d6:011817
+d6:011918
+d6:012019
+d6:012120
+d6:012221
+d6:012322
+d6:012423
+d6:012524
+d6:012625
+d6:012726
+d6:012827
+d6:012928
+d6:013029
+d6:013130
+d6:013231
+d6:013332
+d6:013433
+d6:013534
+d6:013635
+d6:013736
+d6:013837
+d6:013938
+d6:014039
+d6:014140
+d6:014241
+d6:014342
+d6:014443
+d6:014544
+d6:014645
+d6:014746
+d6:014847
+d6:014948
+d6:015049
+d6:015150
+d6:015251
+d6:015352
+d6:015453
+d6:015554
+d6:015655
+d6:015756
+d6:015857
+d6:015958
+d6:016059
+d6:016160
+d6:016261
+d6:016362
+d6:016463
+d6:016564
+d6:016665
+d6:016766
+d6:016867
+d6:016968
+d6:017069
+d6:017170
+Nov 30 21:05:13 10 kernel: do_noquantum() called.
+d6:017271
+d6:017372
+Nov 30 21:05:13 10 kernel: Process:36691 won the lottery! tickets:16/34 priority:15.
+d6:017473
+d6:017574
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:16
+d6:017675
+d6:017776
+d6:017877
+d6:017978
+d6:018079
+d6:018180
+d6:018281
+d6:018382
+d6:018483
+d6:018584
+d6:018685
+d6:018786
+d6:018887
+d6:018988
+d6:019089
+d6:019190
+d6:019291
+d6:019392
+d6:019493
+d6:019594
+d6:019695
+d6:019796
+d6:019897
+d6:019998
+d6:020099
+d6:020200
+d6:020301
+d6:020402
+d6:020503
+d6:020604
+d6:020705
+d6:020806
+d6:020907
+d6:021008
+d6:021109
+d6:021210
+d6:021311
+d6:021412
+d6:021513
+d6:021614
+d6:021715
+d6:021816
+d6:021917
+d6:022018
+d6:022119
+d6:022220
+d6:022321
+d6:022422
+d6:022523
+d6:022624
+d6:022725
+d6:022826
+d6:022927
+d6:023028
+d6:023129
+d6:023230
+d6:023331
+d6:023432
+d6:023533
+d6:023634
+d6:023735
+d6:023836
+d6:023937
+d6:024038
+d6:024139
+a6:007575
+a6:007676
+a6:007777
+Nov 30 21:05:13 10 kernel: do_noquantum() called.
+a6:007878
+a6:007979
+Nov 30 21:05:13 10 kernel: Process:36688 won the lottery! tickets:2/34 priority:15.
+a6:008080
+a6:008181
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:36688 priority:15 time_slice:200 tickets:2
+a6:008282
+a6:008383
+a6:008484
+a6:008585
+a6:008686
+a6:008787
+a6:008888
+a6:008989
+a6:009090
+a6:009191
+a6:009292
+a6:009393
+a6:009494
+a6:009595
+a6:009696
+a6:009797
+a6:009898
+a6:009999
+a6:010100
+a6:010201
+a6:010302
+a6:010403
+a6:010504
+a6:010605
+a6:010706
+a6:010807
+a6:010908
+a6:011009
+a6:011110
+a6:011211
+a6:011312
+a6:011413
+a6:011514
+a6:011615
+a6:011716
+a6:011817
+a6:011918
+a6:012019
+a6:012120
+a6:012221
+a6:012322
+a6:012423
+a6:012524
+a6:012625
+a6:012726
+a6:012827
+a6:012928
+a6:013029
+a6:013130
+a6:013231
+a6:013332
+a6:013433
+a6:013534
+a6:013635
+a6:013736
+a6:013837
+a6:013938
+a6:014039
+a6:014140
+a6:014241
+a6:014342
+a6:014443
+a6:014544
+a6:014645
+a6:014746
+a6:014847
+a6:014948
+a6:015049
+a6:015150
+a6:015251
+Nov 30 21:05:13 10 kernel: do_noquantum() called.
+a6:015352
+a6:015453
+Nov 30 21:05:13 10 kernel: Process:36688 won the lottery! tickets:2/34 priority:15.
+a6:015554
+a6:015655
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:36688 priority:15 time_slice:200 tickets:2
+a6:015756
+a6:015857
+a6:015958
+a6:016059
+a6:016160
+a6:016261
+a6:016362
+a6:016463
+a6:016564
+a6:016665
+a6:016766
+a6:016867
+a6:016968
+a6:017069
+a6:017170
+a6:017271
+a6:017372
+a6:017473
+a6:017574
+a6:017675
+a6:017776
+a6:017877
+a6:017978
+a6:018079
+a6:018180
+a6:018281
+a6:018382
+a6:018483
+a6:018584
+a6:018685
+a6:018786
+a6:018887
+a6:018988
+a6:019089
+a6:019190
+a6:019291
+a6:019392
+a6:019493
+a6:019594
+a6:019695
+a6:019796
+a6:019897
+a6:019998
+a6:020099
+a6:020200
+a6:020301
+a6:020402
+a6:020503
+a6:020604
+a6:020705
+a6:020806
+a6:020907
+a6:021008
+a6:021109
+a6:021210
+a6:021311
+a6:021412
+a6:021513
+a6:021614
+a6:021715
+a6:021816
+a6:021917
+a6:022018
+a6:022119
+a6:022220
+a6:022321
+d6:024240
+d6:024341
+d6:024442
+Nov 30 21:05:13 10 kernel: do_noquantum() called.
+d6:024543
+d6:024644
+Nov 30 21:05:13 10 kernel: Process:36691 won the lottery! tickets:16/34 priority:15.
+d6:024745
+d6:024846
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:36691 priority:15 time_slice:200 tickets:16
+d6:024947
+d6:025048
+d6:025149
+d6:025250
+d6:025351
+d6:025452
+d6:025553
+d6:025654
+d6:025755
+d6:025856
+d6:025957
+d6:026058
+d6:026159
+d6:026260
+d6:026361
+d6:026462
+d6:026563
+d6:026664
+d6:026765
+d6:026866
+d6:026967
+d6:027068
+d6:027169
+d6:027270
+d6:027371
+d6:027472
+d6:027573
+d6:027674
+d6:027775
+d6:027876
+d6:027977
+d6:028078
+d6:028179
+d6:028280
+d6:028381
+d6:028482
+d6:028583
+d6:028684
+d6:028785
+d6:028886
+d6:028987
+d6:029088
+d6:029189
+d6:029290
+d6:029391
+d6:029492
+d6:029593
+d6:029694
+d6:029795
+d6:029896
+d6:029997
+The final value of v is 0x15e24495
+Nov 30 21:05:13 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:13 10 kernel: Process:36673 won the lottery! tickets:1/18 priority:15.
+Nov 30 21:05:13 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+b6:007575
+b6:007676
+b6:007777
+Nov 30 21:05:18 10 kernel: balance_queues() called.
+b6:007878
+b6:007979
+Nov 30 21:05:18 10 kernel: Process:36689 won the lottery! tickets:2/18 priority:15.
+b6:008080
+b6:008181
+Nov 30 21:05:18 10 kernel: schedule_process() called. endpoint:36689 priority:15 time_slice:200 tickets:2
+b6:008282
+b6:008383
+b6:008484
+b6:008585
+b6:008686
+b6:008787
+b6:008888
+b6:008989
+b6:009090
+b6:009191
+b6:009292
+b6:009393
+b6:009494
+b6:009595
+b6:009696
+b6:009797
+b6:009898
+b6:009999
+b6:010100
+b6:010201
+b6:010302
+b6:010403
+b6:010504
+b6:010605
+b6:010706
+b6:010807
+b6:010908
+b6:011009
+b6:011110
+b6:011211
+b6:011312
+b6:011413
+b6:011514
+b6:011615
+b6:011716
+b6:011817
+b6:011918
+b6:012019
+b6:012120
+b6:012221
+b6:012322
+b6:012423
+b6:012524
+b6:012625
+b6:012726
+b6:012827
+b6:012928
+b6:013029
+b6:013130
+b6:013231
+b6:013332
+b6:013433
+b6:013534
+b6:013635
+b6:013736
+b6:013837
+b6:013938
+b6:014039
+b6:014140
+a6:022422
+a6:022523
+a6:022624
+Nov 30 21:05:18 10 kernel: do_noquantum() called.
+a6:022725
+a6:022826
+Nov 30 21:05:18 10 kernel: Process:36688 won the lottery! tickets:2/18 priority:15.
+a6:022927
+a6:023028
+Nov 30 21:05:18 10 kernel: schedule_process() called. endpoint:36688 priority:15 time_slice:200 tickets:2
+a6:023129
+a6:023230
+a6:023331
+a6:023432
+a6:023533
+a6:023634
+a6:023735
+a6:023836
+a6:023937
+a6:024038
+a6:024139
+a6:024240
+a6:024341
+a6:024442
+a6:024543
+a6:024644
+a6:024745
+a6:024846
+a6:024947
+a6:025048
+a6:025149
+a6:025250
+a6:025351
+a6:025452
+a6:025553
+a6:025654
+a6:025755
+a6:025856
+a6:025957
+a6:026058
+a6:026159
+a6:026260
+a6:026361
+a6:026462
+a6:026563
+a6:026664
+a6:026765
+a6:026866
+a6:026967
+a6:027068
+a6:027169
+a6:027270
+a6:027371
+a6:027472
+a6:027573
+a6:027674
+a6:027775
+a6:027876
+a6:027977
+a6:028078
+a6:028179
+a6:028280
+a6:028381
+a6:028482
+a6:028583
+a6:028684
+a6:028785
+a6:028886
+Nov 30 21:05:18 10 kernel: do_noquantum() called.
+Nov 30 21:05:18 10 kernel: Process:36679 won the lottery! tickets:1/18 priority:15.
+Nov 30 21:05:18 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+a6:028987
+a6:029088
+a6:029189
+Nov 30 21:05:23 10 kernel: balance_queues() called.
+a6:029290
+a6:029391
+Nov 30 21:05:23 10 kernel: Process:36688 won the lottery! tickets:2/18 priority:15.
+a6:029492
+a6:029593
+Nov 30 21:05:23 10 kernel: schedule_process() called. endpoint:36688 priority:15 time_slice:200 tickets:2
+a6:029694
+a6:029795
+a6:029896
+a6:029997
+The final value of v is 0xe8c5a892
+Nov 30 21:05:23 10 kernel: do_stop_scheduling() called.
+Nov 30 21:05:23 10 kernel: Process:36673 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:23 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+c6:007474
+c6:007575
+c6:007676
+Nov 30 21:05:28 10 kernel: balance_queues() called.
+c6:007777
+c6:007878
+Nov 30 21:05:28 10 kernel: Process:36690 won the lottery! tickets:2/16 priority:15.
+c6:007979
+c6:008080
+Nov 30 21:05:28 10 kernel: schedule_process() called. endpoint:36690 priority:15 time_slice:200 tickets:2
+c6:008181
+c6:008282
+c6:008383
+c6:008484
+c6:008585
+c6:008686
+c6:008787
+c6:008888
+c6:008989
+c6:009090
+c6:009191
+c6:009292
+c6:009393
+c6:009494
+c6:009595
+c6:009696
+c6:009797
+c6:009898
+c6:009999
+c6:010100
+c6:010201
+c6:010302
+c6:010403
+c6:010504
+c6:010605
+c6:010706
+c6:010807
+c6:010908
+c6:011009
+c6:011110
+c6:011211
+c6:011312
+c6:011413
+c6:011514
+c6:011615
+c6:011716
+c6:011817
+c6:011918
+c6:012019
+c6:012120
+c6:012221
+c6:012322
+c6:012423
+c6:012524
+c6:012625
+c6:012726
+c6:012827
+c6:012928
+c6:013029
+c6:013130
+c6:013231
+c6:013332
+c6:013433
+c6:013534
+c6:013635
+c6:013736
+c6:013837
+c6:013938
+c6:014039
+c6:014140
+c6:014241
+c6:014342
+c6:014443
+c6:014544
+c6:014645
+c6:014746
+c6:014847
+Nov 30 21:05:28 10 kernel: do_noquantum() called.
+Nov 30 21:05:28 10 kernel: Process:36658 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:28 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+b6:014241
+b6:014342
+b6:014443
+Nov 30 21:05:33 10 kernel: balance_queues() called.
+b6:014544
+b6:014645
+Nov 30 21:05:33 10 kernel: Process:36689 won the lottery! tickets:2/16 priority:15.
+b6:014746
+b6:014847
+Nov 30 21:05:33 10 kernel: schedule_process() called. endpoint:36689 priority:15 time_slice:200 tickets:2
+b6:014948
+b6:015049
+b6:015150
+b6:015251
+b6:015352
+b6:015453
+b6:015554
+b6:015655
+b6:015756
+b6:015857
+b6:015958
+b6:016059
+b6:016160
+b6:016261
+b6:016362
+b6:016463
+b6:016564
+b6:016665
+b6:016766
+b6:016867
+b6:016968
+b6:017069
+b6:017170
+b6:017271
+b6:017372
+b6:017473
+b6:017574
+b6:017675
+b6:017776
+b6:017877
+b6:017978
+b6:018079
+b6:018180
+b6:018281
+b6:018382
+b6:018483
+b6:018584
+b6:018685
+b6:018786
+b6:018887
+b6:018988
+b6:019089
+b6:019190
+b6:019291
+b6:019392
+b6:019493
+b6:019594
+b6:019695
+b6:019796
+b6:019897
+b6:019998
+b6:020099
+b6:020200
+b6:020301
+b6:020402
+b6:020503
+b6:020604
+b6:020705
+b6:020806
+b6:020907
+b6:021008
+Nov 30 21:05:33 10 kernel: do_noquantum() called.
+Nov 30 21:05:33 10 kernel: Process:36674 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:33 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:38 10 kernel: balance_queues() called.
+Nov 30 21:05:38 10 kernel: Process:36670 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:38 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+b6:021109
+b6:021210
+b6:021311
+Nov 30 21:05:43 10 kernel: balance_queues() called.
+b6:021412
+b6:021513
+Nov 30 21:05:43 10 kernel: Process:36689 won the lottery! tickets:2/16 priority:15.
+b6:021614
+b6:021715
+Nov 30 21:05:43 10 kernel: schedule_process() called. endpoint:36689 priority:15 time_slice:200 tickets:2
+b6:021816
+b6:021917
+b6:022018
+b6:022119
+b6:022220
+b6:022321
+b6:022422
+b6:022523
+b6:022624
+b6:022725
+b6:022826
+b6:022927
+b6:023028
+b6:023129
+b6:023230
+b6:023331
+b6:023432
+b6:023533
+b6:023634
+b6:023735
+b6:023836
+b6:023937
+b6:024038
+b6:024139
+b6:024240
+b6:024341
+b6:024442
+b6:024543
+b6:024644
+b6:024745
+b6:024846
+b6:024947
+b6:025048
+b6:025149
+b6:025250
+b6:025351
+b6:025452
+b6:025553
+b6:025654
+b6:025755
+b6:025856
+b6:025957
+b6:026058
+b6:026159
+b6:026260
+b6:026361
+b6:026462
+b6:026563
+b6:026664
+b6:026765
+b6:026866
+b6:026967
+b6:027068
+b6:027169
+b6:027270
+b6:027371
+b6:027472
+b6:027573
+b6:027674
+b6:027775
+b6:027876
+b6:027977
+b6:028078
+b6:028179
+b6:028280
+b6:028381
+b6:028482
+Nov 30 21:05:43 10 kernel: do_noquantum() called.
+Nov 30 21:05:43 10 kernel: Process:36670 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:43 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:48 10 kernel: balance_queues() called.
+Nov 30 21:05:48 10 kernel: Process:36671 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:48 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:48 10 kernel: do_noquantum() called.
+Nov 30 21:05:48 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:05:53 10 kernel: balance_queues() called.
+Nov 30 21:05:53 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:05:53 10 kernel: Process:36649 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:53 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:05:58 10 kernel: balance_queues() called.
+Nov 30 21:05:58 10 kernel: Process:36672 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:05:58 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:03 10 kernel: balance_queues() called.
+Nov 30 21:06:03 10 kernel: Process:36681 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:06:03 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:08 10 kernel: balance_queues() called.
+Nov 30 21:06:08 10 kernel: Process:36672 won the lottery! tickets:1/16 priority:15.
+Nov 30 21:06:08 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+b6:028583
+b6:028684
+b6:028785
+Nov 30 21:06:13 10 kernel: balance_queues() called.
+b6:028886
+b6:028987
+Nov 30 21:06:13 10 kernel: Process:36689 won the lottery! tickets:2/16 priority:15.
+b6:029088
+b6:029189
+Nov 30 21:06:13 10 kernel: schedule_process() called. endpoint:36689 priority:15 time_slice:200 tickets:2
+b6:029290
+b6:029391
+b6:029492
+b6:029593
+b6:029694
+b6:029795
+b6:029896
+b6:029997
+The final value of v is 0xa279dc93
+Nov 30 21:06:13 10 kernel: do_stop_scheduling() called.
+Nov 30 21:06:13 10 kernel: Process:36671 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:13 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:18 10 kernel: balance_queues() called.
+Nov 30 21:06:18 10 kernel: Process:36672 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:18 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:23 10 kernel: balance_queues() called.
+Nov 30 21:06:23 10 kernel: Process:36674 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:23 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:28 10 kernel: balance_queues() called.
+Nov 30 21:06:28 10 kernel: Process:36649 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:28 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+c6:014948
+c6:015049
+c6:015150
+Nov 30 21:06:33 10 kernel: balance_queues() called.
+c6:015251
+c6:015352
+Nov 30 21:06:33 10 kernel: Process:36690 won the lottery! tickets:2/14 priority:15.
+c6:015453
+c6:015554
+Nov 30 21:06:33 10 kernel: schedule_process() called. endpoint:36690 priority:15 time_slice:200 tickets:2
+c6:015655
+c6:015756
+c6:015857
+c6:015958
+c6:016059
+c6:016160
+c6:016261
+c6:016362
+c6:016463
+c6:016564
+c6:016665
+c6:016766
+c6:016867
+c6:016968
+c6:017069
+c6:017170
+c6:017271
+c6:017372
+c6:017473
+c6:017574
+c6:017675
+c6:017776
+c6:017877
+c6:017978
+c6:018079
+c6:018180
+c6:018281
+c6:018382
+c6:018483
+c6:018584
+c6:018685
+c6:018786
+c6:018887
+c6:018988
+c6:019089
+c6:019190
+c6:019291
+c6:019392
+c6:019493
+c6:019594
+c6:019695
+c6:019796
+c6:019897
+c6:019998
+c6:020099
+c6:020200
+c6:020301
+c6:020402
+c6:020503
+c6:020604
+c6:020705
+c6:020806
+c6:020907
+c6:021008
+c6:021109
+c6:021210
+c6:021311
+c6:021412
+c6:021513
+c6:021614
+c6:021715
+c6:021816
+c6:021917
+c6:022018
+c6:022119
+c6:022220
+c6:022321
+c6:022422
+c6:022523
+Nov 30 21:06:33 10 kernel: do_noquantum() called.
+c6:022624
+c6:022725
+Nov 30 21:06:33 10 kernel: Process:36690 won the lottery! tickets:2/14 priority:15.
+c6:022826
+c6:022927
+Nov 30 21:06:33 10 kernel: schedule_process() called. endpoint:36690 priority:15 time_slice:200 tickets:2
+c6:023028
+c6:023129
+c6:023230
+c6:023331
+c6:023432
+c6:023533
+c6:023634
+c6:023735
+c6:023836
+c6:023937
+c6:024038
+c6:024139
+c6:024240
+c6:024341
+c6:024442
+c6:024543
+c6:024644
+c6:024745
+c6:024846
+c6:024947
+c6:025048
+c6:025149
+c6:025250
+c6:025351
+c6:025452
+c6:025553
+c6:025654
+c6:025755
+c6:025856
+c6:025957
+c6:026058
+c6:026159
+c6:026260
+c6:026361
+c6:026462
+c6:026563
+c6:026664
+c6:026765
+c6:026866
+c6:026967
+c6:027068
+c6:027169
+c6:027270
+c6:027371
+c6:027472
+c6:027573
+c6:027674
+c6:027775
+c6:027876
+c6:027977
+c6:028078
+c6:028179
+c6:028280
+c6:028381
+c6:028482
+c6:028583
+c6:028684
+c6:028785
+c6:028886
+c6:028987
+c6:029088
+c6:029189
+c6:029290
+c6:029391
+c6:029492
+c6:029593
+Nov 30 21:06:33 10 kernel: do_noquantum() called.
+Nov 30 21:06:33 10 kernel: Process:36660 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:33 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:38 10 kernel: balance_queues() called.
+Nov 30 21:06:38 10 kernel: Process:36681 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:38 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:43 10 kernel: balance_queues() called.
+Nov 30 21:06:43 10 kernel: Process:36674 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:43 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:48 10 kernel: balance_queues() called.
+Nov 30 21:06:48 10 kernel: Process:36671 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:48 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:53 10 kernel: balance_queues() called.
+Nov 30 21:06:53 10 kernel: Process:36656 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:53 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:58 10 kernel: balance_queues() called.
+Nov 30 21:06:58 10 kernel: Process:36658 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:06:58 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:06:58 10 kernel: do_noquantum() called.
+Nov 30 21:06:58 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:07:03 10 kernel: balance_queues() called.
+Nov 30 21:07:03 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:07:03 10 kernel: Process:36656 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:07:03 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+c6:029694
+c6:029795
+c6:029896
+Nov 30 21:07:08 10 kernel: balance_queues() called.
+c6:029997
+The final value of v is 0x5c2e1094
+Nov 30 21:07:08 10 kernel: Process:36690 won the lottery! tickets:2/14 priority:15.
+Nov 30 21:07:08 10 kernel: schedule_process() called. endpoint:36690 priority:15 time_slice:200 tickets:2
+Nov 30 21:07:08 10 kernel: do_stop_scheduling() called.
+Nov 30 21:07:08 10 kernel: Process:36670 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:08 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:13 10 kernel: balance_queues() called.
+Nov 30 21:07:13 10 kernel: Process:36673 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:13 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:18 10 kernel: balance_queues() called.
+Nov 30 21:07:18 10 kernel: Process:36674 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:18 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:23 10 kernel: balance_queues() called.
+Nov 30 21:07:23 10 kernel: Process:36671 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:23 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:28 10 kernel: balance_queues() called.
+Nov 30 21:07:28 10 kernel: Process:36674 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:28 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:33 10 kernel: balance_queues() called.
+Nov 30 21:07:33 10 kernel: Process:36671 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:33 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:38 10 kernel: balance_queues() called.
+Nov 30 21:07:38 10 kernel: Process:36670 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:38 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:43 10 kernel: balance_queues() called.
+Nov 30 21:07:43 10 kernel: Process:36649 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:43 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:48 10 kernel: balance_queues() called.
+Nov 30 21:07:48 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:48 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:53 10 kernel: balance_queues() called.
+Nov 30 21:07:53 10 kernel: Process:36670 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:53 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:07:57 10 kernel: do_noquantum() called.
+Nov 30 21:07:57 10 kernel: schedule_process() called. endpoint:73141 priority:8 time_slice:200 tickets:1
+Nov 30 21:07:58 10 kernel: balance_queues() called.
+Nov 30 21:07:58 10 kernel: schedule_process() called. endpoint:73141 priority:7 time_slice:200 tickets:1
+Nov 30 21:07:58 10 kernel: Process:36679 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:07:58 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:03 10 kernel: balance_queues() called.
+Nov 30 21:08:03 10 kernel: Process:36672 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:03 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:08 10 kernel: balance_queues() called.
+Nov 30 21:08:08 10 kernel: Process:36658 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:08 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:13 10 kernel: balance_queues() called.
+Nov 30 21:08:13 10 kernel: Process:36674 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:13 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:13 10 kernel: do_noquantum() called.
+Nov 30 21:08:13 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:08:18 10 kernel: balance_queues() called.
+Nov 30 21:08:18 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:08:18 10 kernel: Process:36681 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:18 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:23 10 kernel: balance_queues() called.
+Nov 30 21:08:23 10 kernel: Process:36673 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:23 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:28 10 kernel: balance_queues() called.
+Nov 30 21:08:28 10 kernel: Process:36672 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:28 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:33 10 kernel: balance_queues() called.
+Nov 30 21:08:33 10 kernel: Process:36670 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:33 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:38 10 kernel: balance_queues() called.
+Nov 30 21:08:38 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:38 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:43 10 kernel: balance_queues() called.
+Nov 30 21:08:43 10 kernel: Process:36673 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:43 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:48 10 kernel: balance_queues() called.
+Nov 30 21:08:48 10 kernel: Process:36679 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:48 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:53 10 kernel: balance_queues() called.
+Nov 30 21:08:53 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:53 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:08:58 10 kernel: balance_queues() called.
+Nov 30 21:08:58 10 kernel: Process:36672 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:08:58 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:03 10 kernel: balance_queues() called.
+Nov 30 21:09:03 10 kernel: Process:36672 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:03 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:08 10 kernel: balance_queues() called.
+Nov 30 21:09:08 10 kernel: Process:36658 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:08 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:13 10 kernel: balance_queues() called.
+Nov 30 21:09:13 10 kernel: Process:36673 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:13 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:18 10 kernel: balance_queues() called.
+Nov 30 21:09:18 10 kernel: Process:36671 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:18 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:23 10 kernel: balance_queues() called.
+Nov 30 21:09:23 10 kernel: Process:36656 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:23 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:28 10 kernel: balance_queues() called.
+Nov 30 21:09:28 10 kernel: Process:36674 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:28 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:33 10 kernel: balance_queues() called.
+Nov 30 21:09:33 10 kernel: Process:36674 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:33 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:38 10 kernel: balance_queues() called.
+Nov 30 21:09:38 10 kernel: Process:36679 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:38 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:38 10 kernel: do_noquantum() called.
+Nov 30 21:09:38 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:09:43 10 kernel: balance_queues() called.
+Nov 30 21:09:43 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:09:43 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:43 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:48 10 kernel: balance_queues() called.
+Nov 30 21:09:48 10 kernel: Process:36673 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:48 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:53 10 kernel: balance_queues() called.
+Nov 30 21:09:53 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:53 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:09:58 10 kernel: balance_queues() called.
+Nov 30 21:09:58 10 kernel: Process:36670 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:09:58 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:00 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:00 10 kernel: schedule_process() called. endpoint:36692 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:03 10 kernel: balance_queues() called.
+Nov 30 21:10:03 10 kernel: Process:36649 won the lottery! tickets:1/13 priority:15.
+Nov 30 21:10:03 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:05 10 sshd[150]: dispatch_protocol_error: type 90 seq 5
+Nov 30 21:10:05 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:05 10 kernel: schedule_process() called. endpoint:36693 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:05 10 kernel: do_stop_scheduling() called.
+Nov 30 21:10:05 10 kernel: Process:36672 won the lottery! tickets:1/13 priority:15.
+Nov 30 21:10:05 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:05 10 sshd[150]: Accepted password for root from 10.0.2.2 port 50147 ssh2
+Nov 30 21:10:05 10 sshd[150]: subsystem request for sftp
+Nov 30 21:10:05 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:05 10 kernel: schedule_process() called. endpoint:36694 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:05 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:05 10 kernel: schedule_process() called. endpoint:36695 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:08 10 kernel: balance_queues() called.
+Nov 30 21:10:08 10 kernel: Process:36649 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:08 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:13 10 kernel: balance_queues() called.
+Nov 30 21:10:13 10 kernel: Process:36692 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:13 10 kernel: schedule_process() called. endpoint:36692 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:18 10 kernel: balance_queues() called.
+Nov 30 21:10:18 10 kernel: Process:36692 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:18 10 kernel: schedule_process() called. endpoint:36692 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:23 10 kernel: balance_queues() called.
+Nov 30 21:10:23 10 kernel: Process:36679 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:23 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:23 10 kernel: do_noquantum() called.
+Nov 30 21:10:23 10 kernel: schedule_process() called. endpoint:73141 priority:8 time_slice:200 tickets:1
+Nov 30 21:10:24 10 kernel: do_stop_scheduling() called.
+Nov 30 21:10:24 10 kernel: Process:36672 won the lottery! tickets:1/14 priority:15.
+Nov 30 21:10:24 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:24 10 kernel: do_stop_scheduling() called.
+Nov 30 21:10:24 10 kernel: Process:36651 won the lottery! tickets:1/13 priority:15.
+Nov 30 21:10:24 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:24 10 kernel: do_stop_scheduling() called.
+Nov 30 21:10:24 10 kernel: Process:36658 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:10:24 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:24 10 kernel: do_noquantum() called.
+Nov 30 21:10:24 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:10:28 10 kernel: balance_queues() called.
+Nov 30 21:10:28 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:10:28 10 kernel: schedule_process() called. endpoint:73141 priority:7 time_slice:200 tickets:1
+Nov 30 21:10:28 10 kernel: Process:36679 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:10:28 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:33 10 kernel: balance_queues() called.
+Nov 30 21:10:33 10 kernel: Process:36674 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:10:33 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:38 10 kernel: balance_queues() called.
+Nov 30 21:10:38 10 kernel: Process:36651 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:10:38 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:43 10 kernel: balance_queues() called.
+Nov 30 21:10:43 10 kernel: Process:36679 won the lottery! tickets:1/12 priority:15.
+Nov 30 21:10:43 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:47 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:47 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:47 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:47 10 kernel: schedule_process() called. endpoint:36697 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:47 10 kernel: do_stop_scheduling() called.
+Nov 30 21:10:47 10 kernel: Process:36674 won the lottery! tickets:1/13 priority:15.
+Nov 30 21:10:47 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:47 10 sshd[154]: Accepted password for root from 10.0.2.2 port 50155 ssh2
+Nov 30 21:10:47 10 sshd[154]: subsystem request for sftp
+Nov 30 21:10:47 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:47 10 kernel: schedule_process() called. endpoint:36698 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:47 10 kernel: do_start_scheduling() called.
+Nov 30 21:10:47 10 kernel: schedule_process() called. endpoint:36699 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:48 10 kernel: balance_queues() called.
+Nov 30 21:10:48 10 kernel: Process:36696 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:48 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:53 10 kernel: balance_queues() called.
+Nov 30 21:10:53 10 kernel: Process:36670 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:53 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:10:58 10 kernel: balance_queues() called.
+Nov 30 21:10:58 10 kernel: Process:36696 won the lottery! tickets:1/15 priority:15.
+Nov 30 21:10:58 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:02 10 sshd[154]: subsystem request for sftp
+Nov 30 21:11:02 10 kernel: do_start_scheduling() called.
+Nov 30 21:11:02 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:02 10 kernel: do_start_scheduling() called.
+Nov 30 21:11:02 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:03 10 kernel: balance_queues() called.
+Nov 30 21:11:03 10 kernel: Process:36674 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:03 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:08 10 kernel: balance_queues() called.
+Nov 30 21:11:08 10 kernel: Process:36674 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:08 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:13 10 kernel: balance_queues() called.
+Nov 30 21:11:13 10 kernel: Process:36658 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:13 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:13 10 kernel: do_noquantum() called.
+Nov 30 21:11:13 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:11:18 10 kernel: balance_queues() called.
+Nov 30 21:11:18 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:11:18 10 kernel: Process:36696 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:18 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:23 10 kernel: balance_queues() called.
+Nov 30 21:11:23 10 kernel: Process:36698 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:23 10 kernel: schedule_process() called. endpoint:36698 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:28 10 kernel: balance_queues() called.
+Nov 30 21:11:28 10 kernel: Process:36701 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:28 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:33 10 kernel: balance_queues() called.
+Nov 30 21:11:33 10 kernel: Process:36701 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:33 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:38 10 kernel: balance_queues() called.
+Nov 30 21:11:38 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:38 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:38 10 kernel: do_noquantum() called.
+Nov 30 21:11:38 10 kernel: schedule_process() called. endpoint:73141 priority:8 time_slice:200 tickets:1
+Nov 30 21:11:43 10 kernel: balance_queues() called.
+Nov 30 21:11:43 10 kernel: schedule_process() called. endpoint:73141 priority:7 time_slice:200 tickets:1
+Nov 30 21:11:43 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:43 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:48 10 kernel: balance_queues() called.
+Nov 30 21:11:48 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:48 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:53 10 kernel: balance_queues() called.
+Nov 30 21:11:53 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:53 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:11:58 10 kernel: balance_queues() called.
+Nov 30 21:11:58 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:11:58 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:03 10 kernel: balance_queues() called.
+Nov 30 21:12:03 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:03 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:08 10 kernel: balance_queues() called.
+Nov 30 21:12:08 10 kernel: Process:36651 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:08 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:13 10 kernel: balance_queues() called.
+Nov 30 21:12:13 10 kernel: Process:36679 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:13 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:18 10 kernel: balance_queues() called.
+Nov 30 21:12:18 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:18 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:23 10 kernel: balance_queues() called.
+Nov 30 21:12:23 10 kernel: Process:36674 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:23 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:28 10 kernel: balance_queues() called.
+Nov 30 21:12:28 10 kernel: Process:36673 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:28 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:33 10 kernel: balance_queues() called.
+Nov 30 21:12:33 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:33 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:38 10 kernel: balance_queues() called.
+Nov 30 21:12:38 10 kernel: Process:36679 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:38 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:38 10 kernel: do_noquantum() called.
+Nov 30 21:12:38 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:12:43 10 kernel: balance_queues() called.
+Nov 30 21:12:43 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:12:43 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:43 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:48 10 kernel: balance_queues() called.
+Nov 30 21:12:48 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:48 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:53 10 kernel: balance_queues() called.
+Nov 30 21:12:53 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:53 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:12:58 10 kernel: balance_queues() called.
+Nov 30 21:12:58 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:12:58 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:03 10 kernel: balance_queues() called.
+Nov 30 21:13:03 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:03 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:08 10 kernel: balance_queues() called.
+Nov 30 21:13:08 10 kernel: Process:36679 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:08 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:13 10 kernel: balance_queues() called.
+Nov 30 21:13:13 10 kernel: Process:36674 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:13 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:18 10 kernel: balance_queues() called.
+Nov 30 21:13:18 10 kernel: Process:36701 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:18 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:23 10 kernel: balance_queues() called.
+Nov 30 21:13:23 10 kernel: Process:36698 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:23 10 kernel: schedule_process() called. endpoint:36698 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:28 10 kernel: balance_queues() called.
+Nov 30 21:13:28 10 kernel: Process:36656 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:28 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:33 10 kernel: balance_queues() called.
+Nov 30 21:13:33 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:33 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:38 10 kernel: balance_queues() called.
+Nov 30 21:13:38 10 kernel: Process:36696 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:38 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:43 10 kernel: balance_queues() called.
+Nov 30 21:13:43 10 kernel: Process:36673 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:43 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:48 10 kernel: balance_queues() called.
+Nov 30 21:13:48 10 kernel: Process:36699 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:48 10 kernel: schedule_process() called. endpoint:36699 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:53 10 kernel: balance_queues() called.
+Nov 30 21:13:53 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:53 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:58 10 kernel: balance_queues() called.
+Nov 30 21:13:58 10 kernel: Process:36701 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:13:58 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+Nov 30 21:13:58 10 kernel: do_noquantum() called.
+Nov 30 21:13:58 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:14:03 10 kernel: balance_queues() called.
+Nov 30 21:14:03 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:14:03 10 kernel: Process:36681 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:03 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:08 10 kernel: balance_queues() called.
+Nov 30 21:14:08 10 kernel: Process:36656 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:08 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:13 10 kernel: balance_queues() called.
+Nov 30 21:14:13 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:13 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:18 10 kernel: balance_queues() called.
+Nov 30 21:14:18 10 kernel: Process:36696 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:18 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:23 10 kernel: balance_queues() called.
+Nov 30 21:14:23 10 kernel: Process:36698 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:23 10 kernel: schedule_process() called. endpoint:36698 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:28 10 kernel: balance_queues() called.
+Nov 30 21:14:28 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:28 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:33 10 kernel: balance_queues() called.
+Nov 30 21:14:33 10 kernel: Process:36658 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:33 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:38 10 kernel: balance_queues() called.
+Nov 30 21:14:38 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:38 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:43 10 kernel: balance_queues() called.
+Nov 30 21:14:43 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:43 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:48 10 kernel: balance_queues() called.
+Nov 30 21:14:48 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:48 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:53 10 kernel: balance_queues() called.
+Nov 30 21:14:53 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:53 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:14:58 10 kernel: balance_queues() called.
+Nov 30 21:14:58 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:14:58 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:03 10 kernel: balance_queues() called.
+Nov 30 21:15:03 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:03 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:08 10 kernel: balance_queues() called.
+Nov 30 21:15:08 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:08 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:13 10 kernel: balance_queues() called.
+Nov 30 21:15:13 10 kernel: Process:36701 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:13 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:15 10 kernel: do_noquantum() called.
+Nov 30 21:15:15 10 kernel: schedule_process() called. endpoint:73141 priority:8 time_slice:200 tickets:1
+Nov 30 21:15:18 10 kernel: balance_queues() called.
+Nov 30 21:15:18 10 kernel: schedule_process() called. endpoint:73141 priority:7 time_slice:200 tickets:1
+Nov 30 21:15:18 10 kernel: Process:36679 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:18 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:23 10 kernel: balance_queues() called.
+Nov 30 21:15:23 10 kernel: Process:36658 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:23 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:23 10 kernel: do_noquantum() called.
+Nov 30 21:15:23 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:15:28 10 kernel: balance_queues() called.
+Nov 30 21:15:28 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:15:28 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:28 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:33 10 kernel: balance_queues() called.
+Nov 30 21:15:33 10 kernel: Process:36674 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:33 10 kernel: schedule_process() called. endpoint:36674 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:38 10 kernel: balance_queues() called.
+Nov 30 21:15:38 10 kernel: Process:36651 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:38 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:43 10 kernel: balance_queues() called.
+Nov 30 21:15:43 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:43 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:48 10 kernel: balance_queues() called.
+Nov 30 21:15:48 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:48 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:53 10 kernel: balance_queues() called.
+Nov 30 21:15:53 10 kernel: Process:36679 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:53 10 kernel: schedule_process() called. endpoint:36679 priority:15 time_slice:200 tickets:1
+Nov 30 21:15:58 10 kernel: balance_queues() called.
+Nov 30 21:15:58 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:15:58 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:03 10 kernel: balance_queues() called.
+Nov 30 21:16:03 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:16:03 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:08 10 kernel: balance_queues() called.
+Nov 30 21:16:08 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:16:08 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:13 10 kernel: balance_queues() called.
+Nov 30 21:16:13 10 kernel: Process:36681 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:16:13 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:18 10 kernel: balance_queues() called.
+Nov 30 21:16:18 10 kernel: Process:36699 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:16:18 10 kernel: schedule_process() called. endpoint:36699 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:23 10 kernel: balance_queues() called.
+Nov 30 21:16:23 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:16:23 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:27 10 kernel: do_start_scheduling() called.
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36702 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:27 10 kernel: do_start_scheduling() called.
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36703 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:27 10 kernel: do_start_scheduling() called.
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36704 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:27 10 kernel: do_start_scheduling() called.
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36705 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:27 10 kernel: do_nice() called.
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36702 priority:15 time_slice:200 tickets:11
+Nov 30 21:16:27 10 kernel: do_nice() called.
+a7:000101
+a7:000202
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36703 priority:15 time_slice:200 tickets:11
+a7:000303
+a7:000404
+Nov 30 21:16:27 10 kernel: do_noquantum() called.
+b7:000101
+a7:000505
+b7:000202
+a7:000606
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+b7:000303
+a7:000707
+b7:000404
+a7:000808
+Nov 30 21:16:27 10 kernel: do_nice() called.
+d7:000101
+c7:000101
+b7:000505
+a7:000909
+d7:000202
+c7:000202
+b7:000606
+a7:001010
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36705 priority:15 time_slice:200 tickets:11
+d7:000303
+c7:000303
+b7:000707
+a7:001111
+d7:000404
+c7:000404
+b7:000808
+a7:001212
+Nov 30 21:16:27 10 kernel: do_nice() called.
+d7:000505
+c7:000505
+b7:000909
+a7:001313
+d7:000606
+c7:000606
+b7:001010
+a7:001414
+Nov 30 21:16:27 10 kernel: schedule_process() called. endpoint:36704 priority:15 time_slice:200 tickets:11
+d7:000707
+c7:000707
+b7:001111
+a7:001515
+d7:000808
+c7:000808
+b7:001212
+a7:001616
+d7:000909
+c7:000909
+b7:001313
+a7:001717
+d7:001010
+c7:001010
+b7:001414
+a7:001818
+d7:001111
+c7:001111
+b7:001515
+a7:001919
+d7:001212
+c7:001212
+b7:001616
+a7:002020
+d7:001313
+c7:001313
+b7:001717
+a7:002121
+d7:001414
+c7:001414
+b7:001818
+a7:002222
+d7:001515
+c7:001515
+b7:001919
+a7:002323
+d7:001616
+c7:001616
+b7:002020
+a7:002424
+d7:001717
+c7:001717
+b7:002121
+a7:002525
+d7:001818
+c7:001818
+b7:002222
+a7:002626
+d7:001919
+c7:001919
+b7:002323
+a7:002727
+d7:002020
+c7:002020
+b7:002424
+a7:002828
+d7:002121
+c7:002121
+b7:002525
+a7:002929
+d7:002222
+c7:002222
+b7:002626
+a7:003030
+d7:002323
+b7:002727
+a7:003131
+c7:002323
+d7:002424
+b7:002828
+a7:003232
+c7:002424
+d7:002525
+b7:002929
+a7:003333
+c7:002525
+Nov 30 21:16:28 10 kernel: balance_queues() called.
+d7:002626
+b7:003030
+a7:003434
+c7:002626
+d7:002727
+b7:003131
+a7:003535
+c7:002727
+Nov 30 21:16:28 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+d7:002828
+b7:003232
+a7:003636
+c7:002828
+d7:002929
+b7:003333
+a7:003737
+c7:002929
+Nov 30 21:16:28 10 kernel: Process:36704 won the lottery! tickets:11/61 priority:15.
+d7:003030
+b7:003434
+a7:003838
+c7:003030
+d7:003131
+b7:003535
+a7:003939
+c7:003131
+Nov 30 21:16:28 10 kernel: schedule_process() called. endpoint:36704 priority:15 time_slice:200 tickets:11
+d7:003232
+b7:003636
+a7:004040
+c7:003232
+d7:003333
+b7:003737
+a7:004141
+c7:003333
+d7:003434
+b7:003838
+a7:004242
+c7:003434
+d7:003535
+b7:003939
+a7:004343
+c7:003535
+d7:003636
+b7:004040
+a7:004444
+c7:003636
+d7:003737
+b7:004141
+a7:004545
+c7:003737
+d7:003838
+b7:004242
+a7:004646
+c7:003838
+d7:003939
+b7:004343
+a7:004747
+c7:003939
+d7:004040
+b7:004444
+a7:004848
+c7:004040
+d7:004141
+b7:004545
+a7:004949
+c7:004141
+d7:004242
+b7:004646
+a7:005050
+c7:004242
+d7:004343
+b7:004747
+a7:005151
+c7:004343
+d7:004444
+b7:004848
+a7:005252
+c7:004444
+d7:004545
+b7:004949
+a7:005353
+c7:004545
+d7:004646
+b7:005050
+a7:005454
+c7:004646
+d7:004747
+b7:005151
+a7:005555
+c7:004747
+d7:004848
+b7:005252
+a7:005656
+c7:004848
+d7:004949
+b7:005353
+a7:005757
+c7:004949
+d7:005050
+b7:005454
+a7:005858
+c7:005050
+d7:005151
+b7:005555
+a7:005959
+c7:005151
+d7:005252
+b7:005656
+a7:006060
+c7:005252
+d7:005353
+b7:005757
+a7:006161
+c7:005353
+d7:005454
+b7:005858
+a7:006262
+c7:005454
+d7:005555
+b7:005959
+a7:006363
+c7:005555
+d7:005656
+b7:006060
+a7:006464
+c7:005656
+d7:005757
+b7:006161
+a7:006565
+c7:005757
+d7:005858
+b7:006262
+a7:006666
+c7:005858
+d7:005959
+b7:006363
+a7:006767
+c7:005959
+d7:006060
+b7:006464
+a7:006868
+c7:006060
+d7:006161
+b7:006565
+a7:006969
+c7:006161
+d7:006262
+b7:006666
+a7:007070
+c7:006262
+d7:006363
+b7:006767
+a7:007171
+c7:006363
+d7:006464
+b7:006868
+a7:007272
+c7:006464
+d7:006565
+b7:006969
+a7:007373
+c7:006565
+d7:006666
+b7:007070
+a7:007474
+c7:006666
+d7:006767
+b7:007171
+c7:006767
+d7:006868
+b7:007272
+c7:006868
+d7:006969
+b7:007373
+c7:006969
+d7:007070
+Nov 30 21:16:28 10 kernel: do_noquantum() called.
+c7:007070
+d7:007171
+c7:007171
+d7:007272
+Nov 30 21:16:28 10 kernel: Process:36651 won the lottery! tickets:1/61 priority:15.
+c7:007272
+d7:007373
+c7:007373
+d7:007474
+Nov 30 21:16:28 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+c7:007474
+c7:007575
+d7:007575
+c7:007676
+d7:007676
+c7:007777
+d7:007777
+Nov 30 21:16:28 10 kernel: do_noquantum() called.
+c7:007878
+d7:007878
+c7:007979
+d7:007979
+Nov 30 21:16:28 10 kernel: Process:36673 won the lottery! tickets:1/61 priority:15.
+c7:008080
+d7:008080
+c7:008181
+d7:008181
+Nov 30 21:16:28 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+c7:008282
+d7:008282
+c7:008383
+d7:008383
+Nov 30 21:16:28 10 kernel: do_noquantum() called.
+c7:008484
+d7:008484
+c7:008585
+d7:008585
+Nov 30 21:16:28 10 kernel: Process:36705 won the lottery! tickets:11/61 priority:15.
+c7:008686
+d7:008686
+c7:008787
+d7:008787
+Nov 30 21:16:28 10 kernel: schedule_process() called. endpoint:36705 priority:15 time_slice:200 tickets:11
+c7:008888
+d7:008888
+c7:008989
+d7:008989
+c7:009090
+d7:009090
+c7:009191
+d7:009191
+c7:009292
+d7:009292
+c7:009393
+d7:009393
+c7:009494
+d7:009494
+c7:009595
+d7:009595
+c7:009696
+d7:009696
+d7:009797
+a7:007575
+d7:009898
+a7:007676
+d7:009999
+a7:007777
+Nov 30 21:16:28 10 kernel: do_noquantum() called.
+d7:010100
+a7:007878
+d7:010201
+a7:007979
+Nov 30 21:16:28 10 kernel: Process:36702 won the lottery! tickets:11/61 priority:15.
+d7:010302
+a7:008080
+d7:010403
+a7:008181
+Nov 30 21:16:28 10 kernel: schedule_process() called. endpoint:36702 priority:15 time_slice:200 tickets:11
+d7:010504
+a7:008282
+d7:010605
+a7:008383
+d7:010706
+a7:008484
+d7:010807
+a7:008585
+d7:010908
+a7:008686
+d7:011009
+a7:008787
+d7:011110
+a7:008888
+d7:011211
+a7:008989
+d7:011312
+a7:009090
+d7:011413
+a7:009191
+d7:011514
+a7:009292
+d7:011615
+a7:009393
+d7:011716
+a7:009494
+d7:011817
+a7:009595
+d7:011918
+a7:009696
+d7:012019
+a7:009797
+d7:012120
+a7:009898
+d7:012221
+a7:009999
+d7:012322
+a7:010100
+d7:012423
+a7:010201
+d7:012524
+a7:010302
+d7:012625
+a7:010403
+d7:012726
+a7:010504
+d7:012827
+a7:010605
+d7:012928
+a7:010706
+d7:013029
+a7:010807
+d7:013130
+a7:010908
+d7:013231
+a7:011009
+d7:013332
+a7:011110
+d7:013433
+a7:011211
+d7:013534
+a7:011312
+d7:013635
+a7:011413
+d7:013736
+a7:011514
+d7:013837
+a7:011615
+d7:013938
+a7:011716
+d7:014039
+a7:011817
+d7:014140
+a7:011918
+d7:014241
+a7:012019
+d7:014342
+a7:012120
+d7:014443
+a7:012221
+d7:014544
+a7:012322
+d7:014645
+a7:012423
+d7:014746
+a7:012524
+d7:014847
+a7:012625
+d7:014948
+a7:012726
+d7:015049
+a7:012827
+a7:012928
+a7:013029
+a7:013130
+Nov 30 21:16:29 10 kernel: do_noquantum() called.
+a7:013231
+a7:013332
+Nov 30 21:16:29 10 kernel: Process:36660 won the lottery! tickets:1/61 priority:15.
+a7:013433
+a7:013534
+Nov 30 21:16:29 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+a7:013635
+a7:013736
+a7:013837
+a7:013938
+a7:014039
+a7:014140
+a7:014241
+a7:014342
+a7:014443
+a7:014544
+a7:014645
+a7:014746
+a7:014847
+a7:014948
+a7:015049
+a7:015150
+c7:009797
+c7:009898
+c7:009999
+Nov 30 21:16:29 10 kernel: do_noquantum() called.
+c7:010100
+c7:010201
+Nov 30 21:16:29 10 kernel: Process:36704 won the lottery! tickets:11/61 priority:15.
+c7:010302
+c7:010403
+Nov 30 21:16:29 10 kernel: schedule_process() called. endpoint:36704 priority:15 time_slice:200 tickets:11
+c7:010504
+c7:010605
+c7:010706
+c7:010807
+c7:010908
+c7:011009
+c7:011110
+c7:011211
+c7:011312
+c7:011413
+c7:011514
+c7:011615
+c7:011716
+c7:011817
+c7:011918
+c7:012019
+c7:012120
+c7:012221
+c7:012322
+c7:012423
+c7:012524
+c7:012625
+c7:012726
+c7:012827
+c7:012928
+c7:013029
+c7:013130
+c7:013231
+c7:013332
+c7:013433
+c7:013534
+c7:013635
+c7:013736
+c7:013837
+c7:013938
+c7:014039
+c7:014140
+c7:014241
+c7:014342
+c7:014443
+c7:014544
+c7:014645
+c7:014746
+c7:014847
+c7:014948
+c7:015049
+c7:015150
+c7:015251
+c7:015352
+c7:015453
+c7:015554
+c7:015655
+c7:015756
+c7:015857
+c7:015958
+c7:016059
+c7:016160
+c7:016261
+c7:016362
+c7:016463
+c7:016564
+c7:016665
+c7:016766
+c7:016867
+c7:016968
+c7:017069
+c7:017170
+c7:017271
+c7:017372
+c7:017473
+c7:017574
+Nov 30 21:16:29 10 kernel: do_noquantum() called.
+c7:017675
+c7:017776
+Nov 30 21:16:29 10 kernel: Process:36704 won the lottery! tickets:11/61 priority:15.
+c7:017877
+c7:017978
+Nov 30 21:16:29 10 kernel: schedule_process() called. endpoint:36704 priority:15 time_slice:200 tickets:11
+c7:018079
+c7:018180
+c7:018281
+c7:018382
+c7:018483
+c7:018584
+c7:018685
+c7:018786
+c7:018887
+c7:018988
+c7:019089
+c7:019190
+c7:019291
+c7:019392
+c7:019493
+c7:019594
+c7:019695
+c7:019796
+c7:019897
+c7:019998
+c7:020099
+c7:020200
+c7:020301
+c7:020402
+c7:020503
+c7:020604
+c7:020705
+c7:020806
+c7:020907
+c7:021008
+c7:021109
+c7:021210
+c7:021311
+c7:021412
+c7:021513
+c7:021614
+c7:021715
+c7:021816
+c7:021917
+c7:022018
+c7:022119
+c7:022220
+c7:022321
+c7:022422
+c7:022523
+c7:022624
+c7:022725
+c7:022826
+c7:022927
+c7:023028
+c7:023129
+c7:023230
+c7:023331
+c7:023432
+c7:023533
+c7:023634
+c7:023735
+c7:023836
+c7:023937
+c7:024038
+c7:024139
+c7:024240
+c7:024341
+c7:024442
+c7:024543
+c7:024644
+c7:024745
+c7:024846
+b7:007474
+b7:007575
+b7:007676
+Nov 30 21:16:29 10 kernel: do_noquantum() called.
+b7:007777
+b7:007878
+Nov 30 21:16:29 10 kernel: Process:36703 won the lottery! tickets:11/61 priority:15.
+b7:007979
+b7:008080
+Nov 30 21:16:29 10 kernel: schedule_process() called. endpoint:36703 priority:15 time_slice:200 tickets:11
+b7:008181
+b7:008282
+b7:008383
+b7:008484
+b7:008585
+b7:008686
+b7:008787
+b7:008888
+b7:008989
+b7:009090
+b7:009191
+b7:009292
+b7:009393
+b7:009494
+b7:009595
+b7:009696
+b7:009797
+b7:009898
+b7:009999
+b7:010100
+b7:010201
+b7:010302
+b7:010403
+b7:010504
+b7:010605
+b7:010706
+b7:010807
+b7:010908
+b7:011009
+b7:011110
+b7:011211
+b7:011312
+b7:011413
+b7:011514
+b7:011615
+b7:011716
+b7:011817
+b7:011918
+b7:012019
+b7:012120
+b7:012221
+b7:012322
+b7:012423
+b7:012524
+b7:012625
+b7:012726
+b7:012827
+b7:012928
+b7:013029
+b7:013130
+b7:013231
+b7:013332
+b7:013433
+b7:013534
+b7:013635
+b7:013736
+b7:013837
+b7:013938
+b7:014039
+b7:014140
+b7:014241
+b7:014342
+b7:014443
+b7:014544
+b7:014645
+b7:014746
+b7:014847
+b7:014948
+b7:015049
+Nov 30 21:16:29 10 kernel: do_noquantum() called.
+b7:015150
+b7:015251
+Nov 30 21:16:29 10 kernel: Process:36703 won the lottery! tickets:11/61 priority:15.
+b7:015352
+b7:015453
+Nov 30 21:16:29 10 kernel: schedule_process() called. endpoint:36703 priority:15 time_slice:200 tickets:11
+b7:015554
+b7:015655
+b7:015756
+b7:015857
+b7:015958
+b7:016059
+b7:016160
+b7:016261
+b7:016362
+b7:016463
+b7:016564
+b7:016665
+b7:016766
+b7:016867
+b7:016968
+b7:017069
+b7:017170
+b7:017271
+b7:017372
+b7:017473
+b7:017574
+b7:017675
+b7:017776
+b7:017877
+b7:017978
+b7:018079
+b7:018180
+b7:018281
+b7:018382
+b7:018483
+b7:018584
+b7:018685
+b7:018786
+b7:018887
+b7:018988
+b7:019089
+b7:019190
+b7:019291
+b7:019392
+b7:019493
+b7:019594
+b7:019695
+b7:019796
+b7:019897
+b7:019998
+b7:020099
+b7:020200
+b7:020301
+b7:020402
+b7:020503
+b7:020604
+b7:020705
+b7:020806
+b7:020907
+b7:021008
+b7:021109
+b7:021210
+b7:021311
+b7:021412
+b7:021513
+b7:021614
+b7:021715
+b7:021816
+b7:021917
+b7:022018
+b7:022119
+b7:022220
+b7:022321
+d7:015150
+d7:015251
+d7:015352
+Nov 30 21:16:29 10 kernel: do_noquantum() called.
+d7:015453
+d7:015554
+Nov 30 21:16:29 10 kernel: Process:36705 won the lottery! tickets:11/61 priority:15.
+d7:015655
+d7:015756
+Nov 30 21:16:29 10 kernel: schedule_process() called. endpoint:36705 priority:15 time_slice:200 tickets:11
+d7:015857
+d7:015958
+d7:016059
+d7:016160
+d7:016261
+d7:016362
+d7:016463
+d7:016564
+d7:016665
+d7:016766
+d7:016867
+d7:016968
+d7:017069
+d7:017170
+d7:017271
+d7:017372
+d7:017473
+d7:017574
+d7:017675
+d7:017776
+d7:017877
+d7:017978
+d7:018079
+d7:018180
+d7:018281
+d7:018382
+d7:018483
+d7:018584
+d7:018685
+d7:018786
+d7:018887
+d7:018988
+d7:019089
+d7:019190
+d7:019291
+d7:019392
+d7:019493
+d7:019594
+d7:019695
+d7:019796
+d7:019897
+d7:019998
+d7:020099
+d7:020200
+d7:020301
+d7:020402
+d7:020503
+d7:020604
+d7:020705
+d7:020806
+d7:020907
+d7:021008
+d7:021109
+d7:021210
+d7:021311
+d7:021412
+d7:021513
+d7:021614
+d7:021715
+d7:021816
+d7:021917
+d7:022018
+d7:022119
+d7:022220
+d7:022321
+d7:022422
+b7:022422
+b7:022523
+b7:022624
+Nov 30 21:16:30 10 kernel: do_noquantum() called.
+b7:022725
+b7:022826
+Nov 30 21:16:30 10 kernel: Process:36703 won the lottery! tickets:11/61 priority:15.
+b7:022927
+b7:023028
+Nov 30 21:16:30 10 kernel: schedule_process() called. endpoint:36703 priority:15 time_slice:200 tickets:11
+b7:023129
+b7:023230
+b7:023331
+b7:023432
+b7:023533
+b7:023634
+b7:023735
+b7:023836
+b7:023937
+b7:024038
+b7:024139
+b7:024240
+b7:024341
+b7:024442
+b7:024543
+b7:024644
+b7:024745
+b7:024846
+b7:024947
+b7:025048
+b7:025149
+b7:025250
+b7:025351
+b7:025452
+b7:025553
+b7:025654
+b7:025755
+b7:025856
+b7:025957
+b7:026058
+b7:026159
+b7:026260
+b7:026361
+b7:026462
+b7:026563
+b7:026664
+b7:026765
+b7:026866
+b7:026967
+b7:027068
+b7:027169
+b7:027270
+b7:027371
+b7:027472
+b7:027573
+b7:027674
+b7:027775
+b7:027876
+b7:027977
+b7:028078
+b7:028179
+b7:028280
+b7:028381
+b7:028482
+b7:028583
+b7:028684
+b7:028785
+b7:028886
+b7:028987
+b7:029088
+b7:029189
+b7:029290
+b7:029391
+b7:029492
+b7:029593
+b7:029694
+b7:029795
+b7:029896
+b7:029997
+Nov 30 21:16:30 10 kernel: do_noquantum() called.
+Nov 30 21:16:30 10 kernel: Process:36701 won the lottery! tickets:1/61 priority:15.
+Nov 30 21:16:30 10 kernel: schedule_process() called. endpoint:36701 priority:15 time_slice:200 tickets:1
+c7:024947
+c7:025048
+c7:025149
+Nov 30 21:16:33 10 kernel: balance_queues() called.
+c7:025250
+c7:025351
+Nov 30 21:16:33 10 kernel: Process:36704 won the lottery! tickets:11/61 priority:15.
+c7:025452
+c7:025553
+Nov 30 21:16:33 10 kernel: schedule_process() called. endpoint:36704 priority:15 time_slice:200 tickets:11
+c7:025654
+c7:025755
+c7:025856
+c7:025957
+c7:026058
+c7:026159
+c7:026260
+c7:026361
+c7:026462
+c7:026563
+c7:026664
+c7:026765
+c7:026866
+c7:026967
+c7:027068
+c7:027169
+c7:027270
+c7:027371
+c7:027472
+c7:027573
+c7:027674
+c7:027775
+c7:027876
+c7:027977
+c7:028078
+c7:028179
+c7:028280
+c7:028381
+c7:028482
+c7:028583
+c7:028684
+c7:028785
+c7:028886
+c7:028987
+c7:029088
+c7:029189
+c7:029290
+c7:029391
+c7:029492
+c7:029593
+c7:029694
+c7:029795
+c7:029896
+c7:029997
+The final value of v is 0x8408e8a2
+The final value of v is 0xca54b4a1
+a7:015251
+Nov 30 21:16:33 10 kernel: do_stop_scheduling() called.
+a7:015352
+a7:015453
+Nov 30 21:16:33 10 kernel: Process:36703 won the lottery! tickets:11/50 priority:15.
+a7:015554
+a7:015655
+Nov 30 21:16:33 10 kernel: schedule_process() called. endpoint:36703 priority:15 time_slice:200 tickets:11
+a7:015756
+a7:015857
+a7:015958
+a7:016059
+Nov 30 21:16:33 10 kernel: do_stop_scheduling() called.
+a7:016160
+a7:016261
+Nov 30 21:16:33 10 kernel: Process:36702 won the lottery! tickets:11/39 priority:15.
+a7:016362
+a7:016463
+Nov 30 21:16:33 10 kernel: schedule_process() called. endpoint:36702 priority:15 time_slice:200 tickets:11
+a7:016564
+a7:016665
+a7:016766
+a7:016867
+a7:016968
+a7:017069
+a7:017170
+a7:017271
+a7:017372
+a7:017473
+a7:017574
+a7:017675
+a7:017776
+a7:017877
+a7:017978
+a7:018079
+a7:018180
+a7:018281
+a7:018382
+a7:018483
+a7:018584
+a7:018685
+a7:018786
+a7:018887
+a7:018988
+a7:019089
+a7:019190
+a7:019291
+a7:019392
+a7:019493
+a7:019594
+a7:019695
+a7:019796
+a7:019897
+a7:019998
+a7:020099
+a7:020200
+a7:020301
+a7:020402
+a7:020503
+a7:020604
+a7:020705
+a7:020806
+a7:020907
+a7:021008
+a7:021109
+a7:021210
+a7:021311
+a7:021412
+a7:021513
+a7:021614
+a7:021715
+a7:021816
+a7:021917
+a7:022018
+a7:022119
+a7:022220
+a7:022321
+a7:022422
+a7:022523
+a7:022624
+Nov 30 21:16:33 10 kernel: do_noquantum() called.
+Nov 30 21:16:33 10 kernel: Process:36671 won the lottery! tickets:1/39 priority:15.
+Nov 30 21:16:33 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+a7:022725
+a7:022826
+a7:022927
+Nov 30 21:16:38 10 kernel: balance_queues() called.
+a7:023028
+a7:023129
+Nov 30 21:16:38 10 kernel: Process:36702 won the lottery! tickets:11/39 priority:15.
+a7:023230
+a7:023331
+Nov 30 21:16:38 10 kernel: schedule_process() called. endpoint:36702 priority:15 time_slice:200 tickets:11
+a7:023432
+a7:023533
+a7:023634
+a7:023735
+a7:023836
+a7:023937
+a7:024038
+a7:024139
+a7:024240
+a7:024341
+a7:024442
+a7:024543
+a7:024644
+a7:024745
+a7:024846
+a7:024947
+a7:025048
+a7:025149
+a7:025250
+a7:025351
+a7:025452
+a7:025553
+a7:025654
+a7:025755
+a7:025856
+a7:025957
+a7:026058
+a7:026159
+a7:026260
+a7:026361
+a7:026462
+a7:026563
+a7:026664
+a7:026765
+a7:026866
+a7:026967
+a7:027068
+a7:027169
+a7:027270
+a7:027371
+a7:027472
+a7:027573
+a7:027674
+a7:027775
+a7:027876
+a7:027977
+a7:028078
+a7:028179
+a7:028280
+a7:028381
+a7:028482
+a7:028583
+a7:028684
+a7:028785
+a7:028886
+a7:028987
+a7:029088
+a7:029189
+a7:029290
+a7:029391
+a7:029492
+a7:029593
+a7:029694
+a7:029795
+a7:029896
+a7:029997
+The final value of v is 0x10a080a0
+Nov 30 21:16:38 10 kernel: do_stop_scheduling() called.
+Nov 30 21:16:38 10 kernel: Process:36671 won the lottery! tickets:1/28 priority:15.
+Nov 30 21:16:38 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:43 10 kernel: balance_queues() called.
+Nov 30 21:16:43 10 kernel: Process:36700 won the lottery! tickets:1/28 priority:15.
+Nov 30 21:16:43 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:48 10 kernel: balance_queues() called.
+Nov 30 21:16:48 10 kernel: Process:36696 won the lottery! tickets:1/28 priority:15.
+Nov 30 21:16:48 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:16:48 10 kernel: do_noquantum() called.
+Nov 30 21:16:48 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+d7:022523
+d7:022624
+d7:022725
+Nov 30 21:16:53 10 kernel: balance_queues() called.
+d7:022826
+d7:022927
+Nov 30 21:16:53 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+d7:023028
+d7:023129
+Nov 30 21:16:53 10 kernel: Process:36705 won the lottery! tickets:11/28 priority:15.
+d7:023230
+d7:023331
+Nov 30 21:16:53 10 kernel: schedule_process() called. endpoint:36705 priority:15 time_slice:200 tickets:11
+d7:023432
+d7:023533
+d7:023634
+d7:023735
+d7:023836
+d7:023937
+d7:024038
+d7:024139
+d7:024240
+d7:024341
+d7:024442
+d7:024543
+d7:024644
+d7:024745
+d7:024846
+d7:024947
+d7:025048
+d7:025149
+d7:025250
+d7:025351
+d7:025452
+d7:025553
+d7:025654
+d7:025755
+d7:025856
+d7:025957
+d7:026058
+d7:026159
+d7:026260
+d7:026361
+d7:026462
+d7:026563
+d7:026664
+d7:026765
+d7:026866
+d7:026967
+d7:027068
+d7:027169
+d7:027270
+d7:027371
+d7:027472
+d7:027573
+d7:027674
+d7:027775
+d7:027876
+d7:027977
+d7:028078
+d7:028179
+d7:028280
+d7:028381
+d7:028482
+d7:028583
+d7:028684
+d7:028785
+d7:028886
+d7:028987
+d7:029088
+d7:029189
+d7:029290
+d7:029391
+d7:029492
+d7:029593
+d7:029694
+d7:029795
+d7:029896
+d7:029997
+Nov 30 21:16:53 10 kernel: do_noquantum() called.
+Nov 30 21:16:53 10 kernel: Process:36699 won the lottery! tickets:1/28 priority:15.
+Nov 30 21:16:53 10 kernel: schedule_process() called. endpoint:36699 priority:15 time_slice:200 tickets:1
+The final value of v is 0x3dbd1ca3
+Nov 30 21:16:58 10 kernel: balance_queues() called.
+Nov 30 21:16:58 10 kernel: Process:36705 won the lottery! tickets:11/28 priority:15.
+Nov 30 21:16:58 10 kernel: schedule_process() called. endpoint:36705 priority:15 time_slice:200 tickets:11
+Nov 30 21:16:58 10 kernel: do_stop_scheduling() called.
+Nov 30 21:16:58 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:16:58 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:03 10 kernel: balance_queues() called.
+Nov 30 21:17:03 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:03 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:08 10 kernel: balance_queues() called.
+Nov 30 21:17:08 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:08 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:13 10 kernel: balance_queues() called.
+Nov 30 21:17:13 10 kernel: Process:36658 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:13 10 kernel: schedule_process() called. endpoint:36658 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:18 10 kernel: balance_queues() called.
+Nov 30 21:17:18 10 kernel: Process:36673 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:18 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:23 10 kernel: balance_queues() called.
+Nov 30 21:17:23 10 kernel: Process:36698 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:23 10 kernel: schedule_process() called. endpoint:36698 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:28 10 kernel: balance_queues() called.
+Nov 30 21:17:28 10 kernel: Process:36651 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:28 10 kernel: schedule_process() called. endpoint:36651 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:33 10 kernel: balance_queues() called.
+Nov 30 21:17:33 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:33 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:38 10 kernel: balance_queues() called.
+Nov 30 21:17:38 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:38 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:43 10 kernel: balance_queues() called.
+Nov 30 21:17:43 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:43 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:48 10 kernel: balance_queues() called.
+Nov 30 21:17:48 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:48 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:48 10 kernel: do_noquantum() called.
+Nov 30 21:17:48 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:17:53 10 kernel: balance_queues() called.
+Nov 30 21:17:53 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:17:53 10 kernel: Process:36700 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:53 10 kernel: schedule_process() called. endpoint:36700 priority:15 time_slice:200 tickets:1
+Nov 30 21:17:58 10 kernel: balance_queues() called.
+Nov 30 21:17:58 10 kernel: Process:36698 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:17:58 10 kernel: schedule_process() called. endpoint:36698 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:03 10 kernel: balance_queues() called.
+Nov 30 21:18:03 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:03 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:08 10 kernel: balance_queues() called.
+Nov 30 21:18:08 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:08 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:13 10 kernel: balance_queues() called.
+Nov 30 21:18:13 10 kernel: Process:36699 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:13 10 kernel: schedule_process() called. endpoint:36699 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:18 10 kernel: balance_queues() called.
+Nov 30 21:18:18 10 kernel: Process:36696 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:18 10 kernel: schedule_process() called. endpoint:36696 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:23 10 kernel: balance_queues() called.
+Nov 30 21:18:23 10 kernel: Process:36671 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:23 10 kernel: schedule_process() called. endpoint:36671 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:28 10 kernel: balance_queues() called.
+Nov 30 21:18:28 10 kernel: Process:36673 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:28 10 kernel: schedule_process() called. endpoint:36673 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:33 10 kernel: balance_queues() called.
+Nov 30 21:18:33 10 kernel: Process:36649 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:33 10 kernel: schedule_process() called. endpoint:36649 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:38 10 kernel: balance_queues() called.
+Nov 30 21:18:38 10 kernel: Process:36670 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:38 10 kernel: schedule_process() called. endpoint:36670 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:43 10 kernel: balance_queues() called.
+Nov 30 21:18:43 10 kernel: Process:36656 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:43 10 kernel: schedule_process() called. endpoint:36656 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:43 10 kernel: do_noquantum() called.
+Nov 30 21:18:43 10 kernel: schedule_process() called. endpoint:73141 priority:8 time_slice:200 tickets:1
+Nov 30 21:18:43 10 kernel: do_noquantum() called.
+Nov 30 21:18:43 10 kernel: schedule_process() called. endpoint:5 priority:2 time_slice:50 tickets:1
+Nov 30 21:18:48 10 kernel: balance_queues() called.
+Nov 30 21:18:48 10 kernel: schedule_process() called. endpoint:5 priority:1 time_slice:50 tickets:1
+Nov 30 21:18:48 10 kernel: schedule_process() called. endpoint:73141 priority:7 time_slice:200 tickets:1
+Nov 30 21:18:48 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:48 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:53 10 kernel: balance_queues() called.
+Nov 30 21:18:53 10 kernel: Process:36672 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:53 10 kernel: schedule_process() called. endpoint:36672 priority:15 time_slice:200 tickets:1
+Nov 30 21:18:58 10 kernel: balance_queues() called.
+Nov 30 21:18:58 10 kernel: Process:36660 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:18:58 10 kernel: schedule_process() called. endpoint:36660 priority:15 time_slice:200 tickets:1
+Nov 30 21:19:03 10 kernel: balance_queues() called.
+Nov 30 21:19:03 10 kernel: Process:36681 won the lottery! tickets:1/17 priority:15.
+Nov 30 21:19:03 10 kernel: schedule_process() called. endpoint:36681 priority:15 time_slice:200 tickets:1
